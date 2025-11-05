@@ -19,10 +19,8 @@ The Jac code encapsulates the AI logic, while Python handles environment setup, 
 
 ### get-journal.py
 
-
 - Captures user input for the research title.
-- Calls the Jac `get_Journal` function with the user input.
-- Prints out the classification result.
+- Calls the Jac `get_Journal` function with the user input- Prints out the classification result.
 
 ## Setup
 
