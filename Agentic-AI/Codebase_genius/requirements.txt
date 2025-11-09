@@ -1,0 +1,28 @@
+# Core Jac and byLLM dependencies
+jaclang>=0.8.0
+jac-cloud>=0.2.0
+byllm>=0.4.2
+jac-streamlit>=0.1.0
+
+# LLM Provider support
+openai>=1.0.0
+google-generativeai>=0.3.0
+
+# Code parsing and analysis
+tree-sitter>=0.21.0
+tree-sitter-python>=0.21.0
+
+# Repository management
+GitPython>=3.1.40
+
+# Graph operations for CCG
+networkx>=3.1
+
+# Utility packages
+python-dotenv>=1.0.0
+requests>=2.31.0
+pydantic>=2.0.0
+
+# Development tools
+pytest>=7.4.0
+black>=23.0.0
